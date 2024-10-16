@@ -5,4 +5,6 @@ Estou aprendendo técnicas de programação com algoritmos utilizando portugol c
 # primeiros passos com Algoritmo
 ### conceito do algoritmo:
 
-Um algoritmo na programação é uma sequência de passos lógicos e bem definidos que descrevem como resolver um problema ou realizar uma tarefa específica. Ele deve ser claro, finito e executável, conduzindo a um resultado esperado a partir de uma entrada. Em outras palavras, é um conjunto de instruções que guiam o computador a executar uma função ou operação de maneira eficiente e correta.
+Um algoritmo é uma sequência de passos lógicos e bem definidos que descrevem como resolver um problema ou realizar uma tarefa específica. Ele deve ser claro, finito e executável, conduzindo a um resultado esperado a partir de uma entrada. Em outras palavras, é um conjunto de instruções que guiam o computador a executar uma função ou operação de maneira eficiente e correta.
+
+# projetos já realizados ![image](https://github.com/user-attachments/assets/90e22e00-8a66-4252-9a3b-9f49ddfb62ac)
